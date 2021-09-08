@@ -1,0 +1,13 @@
+2c60beb774c009669c0192019e1f3297 *DESCRIPTION
+4f93f0f3fe26e49fbf6d107f2f60bfcb *NAMESPACE
+bfdfc0c88d60c6a2c4e648f9191584e5 *NEWS.md
+6afd645eec7eeddd63422edf0a531f84 *R/globals.R
+d50ff451201b800c296b48147b98d50e *R/lib.R
+40e0ad1f1040a858640abefd8c21d64a *README.md
+bad7ce73e5d7ce2af42af542f432e870 *build/vignette.rds
+05dd1bfffbfa7a88eaed15db6a44aed0 *inst/doc/demo-truh.R
+8892226856494fe292955e42cbc54426 *inst/doc/demo-truh.Rmd
+dda9b0b343c94ea55ed28a4dd5c870f7 *inst/doc/demo-truh.html
+dc5d41f2dafaee5891993bbb9f91e106 *man/nearest.Rd
+915356371840f9f8416e0328cf41b9f8 *man/truh.Rd
+8892226856494fe292955e42cbc54426 *vignettes/demo-truh.Rmd
